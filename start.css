@@ -1,0 +1,26 @@
+body{
+    background-color: black;
+}
+h1{color: deepskyblue;
+    
+text-align: center;
+    font-display: block;
+    text-decoration-color: chartreuse;
+    font-style: oblique;
+    font-size: 32;
+}
+p{
+    text-align: center;
+    color: dodgerblue;
+    
+
+}
+img{
+    border-radius: 7px;
+        display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width=50%;
+    max-width: 100%;
+    height: auto;
+}

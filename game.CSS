@@ -1,0 +1,22 @@
+canvas {
+    border:3px solid white;
+    background-color: black;
+    align-self: center;
+}
+    h1{
+        font-family:inherit;
+            font-display: block;
+    }
+button{
+    margin-bottom: 3em; 	background-color:black;
+    border: 2px solid black;	
+    color: white;
+    padding: 1em 1.5em;	
+    text-align: center;		
+    font-size: 1em;	
+    display:block;	
+    width: 22%;
+}
+background{
+    colour: blue;
+}
